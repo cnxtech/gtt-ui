@@ -34,7 +34,7 @@
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.4",
     "style-loader": "^0.18.2",
-    "webpack": "3.5.5",
+    "webpack": "5.94.0",
     "webpack-dev-server": "^2.7.1"
   },
   "devDependencies": {
